@@ -31,3 +31,23 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 **Keep solving, keep growing! 🚀**
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/kritik8/LeetCoding/tree/master/0844-backspace-string-compare) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/kritik8/LeetCoding/tree/master/0844-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/kritik8/LeetCoding/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/kritik8/LeetCoding/tree/master/0844-backspace-string-compare) |
+<!---LeetCode Topics End-->
