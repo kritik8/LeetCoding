@@ -1,17 +1,8 @@
-# 💻 LeetCoding
+# LeetCoding
 
 <div align="center">
 
 ### ✨ Where I upload my solved LeetCode problems ✨
-
-```
-    ___       __    _____       __   _                 
-   / _ |     / /   / ____/     / /__| |   ____  _____ 
-  / __ |    / /   / __/       / //_/ |  / __ \/ ___/ 
- / ___ |   / /   / /___      / ,<  | | / /_/ / /     
-/_/  |_|  /_/   /_____/     /_/|_| |_| \____/_/      
-                                                       
-```
 
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-Solutions-blue?style=for-the-badge&logo=leetcode)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
