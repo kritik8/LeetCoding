@@ -30,31 +30,10 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 - 📝 Clean, well-commented code
 - 🔄 Continuous updates
 
----
-
-## 📊 Progress Tracker
-
-> **Status:** 🔄 *Actively Solving*
-
----
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-
----
-
-## 💪 Let's Get Grinding!
-
-```
-█████████████████████████████ 100% DETERMINATION
-```
-
----
-
 <div align="center">
 
 **Keep solving, keep growing! 🚀**
