@@ -1,41 +1,62 @@
-# 🚀 LeetCoding
+# 💻 LeetCoding
 
-A curated collection of LeetCode solutions for mastering coding interviews!
+<div align="center">
 
-## 📝 Overview
-This repository contains my solutions to LeetCode problems, organized by difficulty and category. Each solution includes clean, optimized code with explanations to help prepare for technical interviews.
+### ✨ Where I upload my solved LeetCode problems ✨
 
-## 🎯 Goals
-- Strengthen problem-solving skills
-- Build a personal reference library
-- Document different approaches and optimizations
-- Track progress and improvement over time
+```
+    ___       __    _____       __   _                 
+   / _ |     / /   / ____/     / /__| |   ____  _____ 
+  / __ |    / /   / __/       / //_/ |  / __ \/ ___/ 
+ / ___ |   / /   / /___      / ,<  | | / /_/ / /     
+/_/  |_|  /_/   /_____/     /_/|_| |_| \____/_/      
+                                                       
+```
 
-## 📊 Statistics
-Track your progress as you solve more problems!
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-Solutions-blue?style=for-the-badge&logo=leetcode)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-## 🛠️ Tech Stack
-- **Languages**: Python, JavaScript, Java (or add your preferred languages)
-- **Tools**: [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) for automated syncing
-
-## 📚 Categories
-- Arrays & Strings
-- Linked Lists
-- Trees & Graphs
-- Dynamic Programming
-- Sorting & Searching
-- And more...
-
-## ✨ How to Use
-- Browse solutions by difficulty (Easy, Medium, Hard)
-- Study different approaches to the same problem
-- Use as interview prep material
-
-## 💡 Tips
-- Focus on understanding the logic, not just memorizing solutions
-- Try solving problems yourself first, then review
-- Practice consistently for best results
+</div>
 
 ---
 
-**Created with** ❤️ **using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)**
+## 🚀 About This Repo
+
+This repository contains my solutions to **LeetCode problems** as I practice and prepare for coding interviews.
+
+### What's Inside?
+- 🎯 Solved LeetCode problems
+- 💡 Multiple approaches and optimizations
+- 📝 Clean, well-commented code
+- 🔄 Continuous updates
+
+---
+
+## 📊 Progress Tracker
+
+> **Status:** 🔄 *Actively Solving*
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+
+---
+
+## 💪 Let's Get Grinding!
+
+```
+█████████████████████████████ 100% DETERMINATION
+```
+
+---
+
+<div align="center">
+
+**Keep solving, keep growing! 🚀**
+
+</div>
