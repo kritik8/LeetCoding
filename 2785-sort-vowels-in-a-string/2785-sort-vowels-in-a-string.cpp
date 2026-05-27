@@ -5,20 +5,24 @@ bool isvowel(char ch){
     return (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u');
 }
     string sortVowels(string s) {
-        string temp;
+        unordered_map<char, int> mp;
         for(char &ch: s){
             if(isvowel(ch)){
-                temp.push_back(ch);
+                mp[ch]++;
+
             }
         }
-        sort(temp.begin(), temp.end());
+        string temp = "AEIOUaeiou";
         int j=0;
-         for(int i=0; i<s.length(); i++){
+        for(int i=0; i< s.length(); i++){
             if(isvowel(s[i])){
+                while(mp[temp[j]] == 0){
+                    j++;
+                }
                 s[i]=temp[j];
-                j++;
+                mp[temp[j]]--;
             }
-         }
-         return s;
+        }
+        return s;
     }
 };
