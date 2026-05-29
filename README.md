@@ -51,6 +51,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2947-count-beautiful-substrings-i](https://github.com/kritik8/LeetCoding/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/kritik8/LeetCoding/tree/master/2949-count-beautiful-substrings-ii) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/kritik8/LeetCoding/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kritik8/LeetCoding/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Stack
 |  |
 | ------- |
@@ -86,6 +87,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/kritik8/LeetCoding/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2947-count-beautiful-substrings-i](https://github.com/kritik8/LeetCoding/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/kritik8/LeetCoding/tree/master/2949-count-beautiful-substrings-ii) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kritik8/LeetCoding/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Enumeration
 |  |
 | ------- |
@@ -124,4 +126,8 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/kritik8/LeetCoding/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+## Counting
+|  |
+| ------- |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kritik8/LeetCoding/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 <!---LeetCode Topics End-->
