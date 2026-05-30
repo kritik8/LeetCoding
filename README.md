@@ -44,6 +44,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## String
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/kritik8/LeetCoding/tree/master/0068-text-justification) |
 | [0165-compare-version-numbers](https://github.com/kritik8/LeetCoding/tree/master/0165-compare-version-numbers) |
 | [0592-fraction-addition-and-subtraction](https://github.com/kritik8/LeetCoding/tree/master/0592-fraction-addition-and-subtraction) |
 | [0844-backspace-string-compare](https://github.com/kritik8/LeetCoding/tree/master/0844-backspace-string-compare) |
@@ -65,6 +66,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/kritik8/LeetCoding/tree/master/0068-text-justification) |
 | [0592-fraction-addition-and-subtraction](https://github.com/kritik8/LeetCoding/tree/master/0592-fraction-addition-and-subtraction) |
 | [0844-backspace-string-compare](https://github.com/kritik8/LeetCoding/tree/master/0844-backspace-string-compare) |
 ## Sorting
@@ -75,6 +77,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## Array
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/kritik8/LeetCoding/tree/master/0068-text-justification) |
 | [1980-find-unique-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1980-find-unique-binary-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kritik8/LeetCoding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2191-sort-the-jumbled-numbers](https://github.com/kritik8/LeetCoding/tree/master/2191-sort-the-jumbled-numbers) |
