@@ -60,6 +60,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2949-count-beautiful-substrings-ii](https://github.com/kritik8/LeetCoding/tree/master/2949-count-beautiful-substrings-ii) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/kritik8/LeetCoding/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kritik8/LeetCoding/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3163-string-compression-iii](https://github.com/kritik8/LeetCoding/tree/master/3163-string-compression-iii) |
 ## Stack
 |  |
 | ------- |
