@@ -41,6 +41,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0844-backspace-string-compare](https://github.com/kritik8/LeetCoding/tree/master/0844-backspace-string-compare) |
 | [2109-adding-spaces-to-a-string](https://github.com/kritik8/LeetCoding/tree/master/2109-adding-spaces-to-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/kritik8/LeetCoding/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/kritik8/LeetCoding/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2938-separate-black-and-white-balls](https://github.com/kritik8/LeetCoding/tree/master/2938-separate-black-and-white-balls) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/kritik8/LeetCoding/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## String
@@ -57,6 +58,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/kritik8/LeetCoding/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/kritik8/LeetCoding/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/kritik8/LeetCoding/tree/master/2785-sort-vowels-in-a-string) |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/kritik8/LeetCoding/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kritik8/LeetCoding/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2938-separate-black-and-white-balls](https://github.com/kritik8/LeetCoding/tree/master/2938-separate-black-and-white-balls) |
 | [2947-count-beautiful-substrings-i](https://github.com/kritik8/LeetCoding/tree/master/2947-count-beautiful-substrings-i) |
