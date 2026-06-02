@@ -5,28 +5,26 @@ public:
         swap(s1, s2);
      }   
 
-     vector<string> vec1, vec2;
+     deque<string> dq1, dq2;
      stringstream ss1(s1);
 
      string token ;
      while(ss1 >> token){
-        vec1.push_back(token);
+        dq1.push_back(token);
      }
      stringstream ss2(s2);
      while(ss2 >> token){
-        vec2.push_back(token);
+        dq2.push_back(token);
 
      }
-     int i=0, j = vec1.size()-1;
-     int k =0, l = vec2.size()-1;
-
-     while(k < vec2.size() && i < vec1.size() && vec2[k]==vec1[i] ){
-            k++;i++;
+     while(!dq1.empty() && !dq2.empty() && dq1.front() == dq2.front()){
+        dq1.pop_front();
+        dq2.pop_front();
      }
-     while(l >= k && vec1[j] == vec2[l]){
-        j--;
-        l--;
+     while(!dq1.empty() && !dq2.empty() && dq1.back() == dq2.back()){
+        dq1.pop_back();
+        dq2.pop_back();
      }
-     return l<k;
+     return dq2.empty();
     }
 };
