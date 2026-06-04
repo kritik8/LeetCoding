@@ -37,6 +37,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/kritik8/LeetCoding/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/kritik8/LeetCoding/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/kritik8/LeetCoding/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritik8/LeetCoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -89,12 +90,14 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/kritik8/LeetCoding/tree/master/0016-3sum-closest) |
 | [2191-sort-the-jumbled-numbers](https://github.com/kritik8/LeetCoding/tree/master/2191-sort-the-jumbled-numbers) |
 | [2785-sort-vowels-in-a-string](https://github.com/kritik8/LeetCoding/tree/master/2785-sort-vowels-in-a-string) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kritik8/LeetCoding/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/kritik8/LeetCoding/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/kritik8/LeetCoding/tree/master/0042-trapping-rain-water) |
 | [0068-text-justification](https://github.com/kritik8/LeetCoding/tree/master/0068-text-justification) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritik8/LeetCoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
