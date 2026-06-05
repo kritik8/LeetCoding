@@ -53,6 +53,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kritik8/LeetCoding/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/kritik8/LeetCoding/tree/master/0068-text-justification) |
 | [0165-compare-version-numbers](https://github.com/kritik8/LeetCoding/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/kritik8/LeetCoding/tree/master/0214-shortest-palindrome) |
@@ -94,6 +95,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/kritik8/LeetCoding/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/kritik8/LeetCoding/tree/master/0049-group-anagrams) |
 | [2191-sort-the-jumbled-numbers](https://github.com/kritik8/LeetCoding/tree/master/2191-sort-the-jumbled-numbers) |
 | [2785-sort-vowels-in-a-string](https://github.com/kritik8/LeetCoding/tree/master/2785-sort-vowels-in-a-string) |
 ## Array
@@ -105,6 +107,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0031-next-permutation](https://github.com/kritik8/LeetCoding/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kritik8/LeetCoding/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kritik8/LeetCoding/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/kritik8/LeetCoding/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kritik8/LeetCoding/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/kritik8/LeetCoding/tree/master/0068-text-justification) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritik8/LeetCoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -118,6 +121,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kritik8/LeetCoding/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/kritik8/LeetCoding/tree/master/0049-group-anagrams) |
 | [1980-find-unique-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1980-find-unique-binary-string) |
 | [2947-count-beautiful-substrings-i](https://github.com/kritik8/LeetCoding/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/kritik8/LeetCoding/tree/master/2949-count-beautiful-substrings-ii) |
