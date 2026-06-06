@@ -123,6 +123,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0498-diagonal-traverse](https://github.com/kritik8/LeetCoding/tree/master/0498-diagonal-traverse) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/kritik8/LeetCoding/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kritik8/LeetCoding/tree/master/1329-sort-the-matrix-diagonally) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/kritik8/LeetCoding/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1813-sentence-similarity-iii](https://github.com/kritik8/LeetCoding/tree/master/1813-sentence-similarity-iii) |
 | [1980-find-unique-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1980-find-unique-binary-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kritik8/LeetCoding/tree/master/2007-find-original-array-from-doubled-array) |
