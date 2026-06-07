@@ -102,6 +102,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0016-3sum-closest](https://github.com/kritik8/LeetCoding/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/kritik8/LeetCoding/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kritik8/LeetCoding/tree/master/0075-sort-colors) |
+| [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kritik8/LeetCoding/tree/master/1329-sort-the-matrix-diagonally) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kritik8/LeetCoding/tree/master/2007-find-original-array-from-doubled-array) |
 | [2191-sort-the-jumbled-numbers](https://github.com/kritik8/LeetCoding/tree/master/2191-sort-the-jumbled-numbers) |
@@ -123,6 +124,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritik8/LeetCoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0498-diagonal-traverse](https://github.com/kritik8/LeetCoding/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/kritik8/LeetCoding/tree/master/0724-find-pivot-index) |
+| [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/kritik8/LeetCoding/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/kritik8/LeetCoding/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kritik8/LeetCoding/tree/master/1329-sort-the-matrix-diagonally) |
@@ -152,6 +154,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0048-rotate-image](https://github.com/kritik8/LeetCoding/tree/master/0048-rotate-image) |
 | [0564-find-the-closest-palindrome](https://github.com/kritik8/LeetCoding/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/kritik8/LeetCoding/tree/master/0592-fraction-addition-and-subtraction) |
+| [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kritik8/LeetCoding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/kritik8/LeetCoding/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2947-count-beautiful-substrings-i](https://github.com/kritik8/LeetCoding/tree/master/2947-count-beautiful-substrings-i) |
@@ -213,6 +216,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kritik8/LeetCoding/tree/master/0011-container-with-most-water) |
+| [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kritik8/LeetCoding/tree/master/2007-find-original-array-from-doubled-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/kritik8/LeetCoding/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/kritik8/LeetCoding/tree/master/2938-separate-black-and-white-balls) |
