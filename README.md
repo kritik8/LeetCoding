@@ -123,6 +123,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0075-sort-colors](https://github.com/kritik8/LeetCoding/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritik8/LeetCoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/kritik8/LeetCoding/tree/master/0219-contains-duplicate-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/kritik8/LeetCoding/tree/master/0334-increasing-triplet-subsequence) |
 | [0498-diagonal-traverse](https://github.com/kritik8/LeetCoding/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/kritik8/LeetCoding/tree/master/0724-find-pivot-index) |
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
@@ -218,6 +219,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kritik8/LeetCoding/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/kritik8/LeetCoding/tree/master/0334-increasing-triplet-subsequence) |
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kritik8/LeetCoding/tree/master/2007-find-original-array-from-doubled-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/kritik8/LeetCoding/tree/master/2486-append-characters-to-string-to-make-subsequence) |
