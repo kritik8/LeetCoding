@@ -128,6 +128,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0498-diagonal-traverse](https://github.com/kritik8/LeetCoding/tree/master/0498-diagonal-traverse) |
 | [0645-set-mismatch](https://github.com/kritik8/LeetCoding/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/kritik8/LeetCoding/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/kritik8/LeetCoding/tree/master/0766-toeplitz-matrix) |
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/kritik8/LeetCoding/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/kritik8/LeetCoding/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -192,6 +193,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0048-rotate-image](https://github.com/kritik8/LeetCoding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kritik8/LeetCoding/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/kritik8/LeetCoding/tree/master/0498-diagonal-traverse) |
+| [0766-toeplitz-matrix](https://github.com/kritik8/LeetCoding/tree/master/0766-toeplitz-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kritik8/LeetCoding/tree/master/1329-sort-the-matrix-diagonally) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kritik8/LeetCoding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Binary Search
