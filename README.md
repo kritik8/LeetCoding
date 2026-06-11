@@ -133,6 +133,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/kritik8/LeetCoding/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/kritik8/LeetCoding/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kritik8/LeetCoding/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kritik8/LeetCoding/tree/master/1329-sort-the-matrix-diagonally) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kritik8/LeetCoding/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1813-sentence-similarity-iii](https://github.com/kritik8/LeetCoding/tree/master/1813-sentence-similarity-iii) |
@@ -196,6 +197,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0498-diagonal-traverse](https://github.com/kritik8/LeetCoding/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/kritik8/LeetCoding/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/kritik8/LeetCoding/tree/master/0835-image-overlap) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kritik8/LeetCoding/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kritik8/LeetCoding/tree/master/1329-sort-the-matrix-diagonally) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kritik8/LeetCoding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Binary Search
@@ -251,4 +253,8 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/kritik8/LeetCoding/tree/master/0645-set-mismatch) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kritik8/LeetCoding/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 <!---LeetCode Topics End-->
