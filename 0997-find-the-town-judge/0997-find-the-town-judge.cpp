@@ -1,0 +1,19 @@
+class Solution {
+public:
+    int findJudge(int n, vector<vector<int>>& trust) {
+        vector<int> in(n+1);
+        vector<int> out(n+1);
+        
+        for(vector<int> &vec : trust) {
+            in[vec[1]]++;
+            out[vec[0]]++;
+        }
+        
+        for(int i = 1; i<n+1; i++) {
+            if(in[i] == n-1 && out[i] == 0)
+                return i;
+        }
+        
+        return -1;
+    }
+};
