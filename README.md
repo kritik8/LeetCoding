@@ -124,6 +124,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0048-rotate-image](https://github.com/kritik8/LeetCoding/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kritik8/LeetCoding/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kritik8/LeetCoding/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/kritik8/LeetCoding/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/kritik8/LeetCoding/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/kritik8/LeetCoding/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritik8/LeetCoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
