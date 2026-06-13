@@ -103,6 +103,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0016-3sum-closest](https://github.com/kritik8/LeetCoding/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/kritik8/LeetCoding/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kritik8/LeetCoding/tree/master/0075-sort-colors) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kritik8/LeetCoding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/kritik8/LeetCoding/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kritik8/LeetCoding/tree/master/1329-sort-the-matrix-diagonally) |
@@ -128,6 +129,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritik8/LeetCoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/kritik8/LeetCoding/tree/master/0219-contains-duplicate-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/kritik8/LeetCoding/tree/master/0334-increasing-triplet-subsequence) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kritik8/LeetCoding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/kritik8/LeetCoding/tree/master/0498-diagonal-traverse) |
 | [0605-can-place-flowers](https://github.com/kritik8/LeetCoding/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/kritik8/LeetCoding/tree/master/0645-set-mismatch) |
@@ -244,6 +246,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | ------- |
 | [0011-container-with-most-water](https://github.com/kritik8/LeetCoding/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/kritik8/LeetCoding/tree/master/0334-increasing-triplet-subsequence) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kritik8/LeetCoding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/kritik8/LeetCoding/tree/master/0605-can-place-flowers) |
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kritik8/LeetCoding/tree/master/2007-find-original-array-from-doubled-array) |
