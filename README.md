@@ -108,6 +108,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1329-sort-the-matrix-diagonally](https://github.com/kritik8/LeetCoding/tree/master/1329-sort-the-matrix-diagonally) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kritik8/LeetCoding/tree/master/2007-find-original-array-from-doubled-array) |
 | [2191-sort-the-jumbled-numbers](https://github.com/kritik8/LeetCoding/tree/master/2191-sort-the-jumbled-numbers) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/kritik8/LeetCoding/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2785-sort-vowels-in-a-string](https://github.com/kritik8/LeetCoding/tree/master/2785-sort-vowels-in-a-string) |
 ## Array
 |  |
@@ -148,6 +149,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kritik8/LeetCoding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2191-sort-the-jumbled-numbers](https://github.com/kritik8/LeetCoding/tree/master/2191-sort-the-jumbled-numbers) |
 | [2256-minimum-average-difference](https://github.com/kritik8/LeetCoding/tree/master/2256-minimum-average-difference) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/kritik8/LeetCoding/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +193,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | ------- |
 | [0724-find-pivot-index](https://github.com/kritik8/LeetCoding/tree/master/0724-find-pivot-index) |
 | [2256-minimum-average-difference](https://github.com/kritik8/LeetCoding/tree/master/2256-minimum-average-difference) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/kritik8/LeetCoding/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2947-count-beautiful-substrings-i](https://github.com/kritik8/LeetCoding/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/kritik8/LeetCoding/tree/master/2949-count-beautiful-substrings-ii) |
 ## Dynamic Programming
@@ -215,6 +218,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritik8/LeetCoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/kritik8/LeetCoding/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/kritik8/LeetCoding/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Rolling Hash
 |  |
@@ -243,6 +247,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0605-can-place-flowers](https://github.com/kritik8/LeetCoding/tree/master/0605-can-place-flowers) |
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kritik8/LeetCoding/tree/master/2007-find-original-array-from-doubled-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/kritik8/LeetCoding/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/kritik8/LeetCoding/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/kritik8/LeetCoding/tree/master/2938-separate-black-and-white-balls) |
 ## Depth-First Search
