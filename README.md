@@ -145,6 +145,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/kritik8/LeetCoding/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kritik8/LeetCoding/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kritik8/LeetCoding/tree/master/1329-sort-the-matrix-diagonally) |
+| [1345-jump-game-iv](https://github.com/kritik8/LeetCoding/tree/master/1345-jump-game-iv) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kritik8/LeetCoding/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1706-where-will-the-ball-fall](https://github.com/kritik8/LeetCoding/tree/master/1706-where-will-the-ball-fall) |
 | [1813-sentence-similarity-iii](https://github.com/kritik8/LeetCoding/tree/master/1813-sentence-similarity-iii) |
@@ -165,6 +166,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0645-set-mismatch](https://github.com/kritik8/LeetCoding/tree/master/0645-set-mismatch) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kritik8/LeetCoding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/kritik8/LeetCoding/tree/master/0997-find-the-town-judge) |
+| [1345-jump-game-iv](https://github.com/kritik8/LeetCoding/tree/master/1345-jump-game-iv) |
 | [1980-find-unique-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1980-find-unique-binary-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kritik8/LeetCoding/tree/master/2007-find-original-array-from-doubled-array) |
 | [2947-count-beautiful-substrings-i](https://github.com/kritik8/LeetCoding/tree/master/2947-count-beautiful-substrings-i) |
@@ -283,6 +285,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kritik8/LeetCoding/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1345-jump-game-iv](https://github.com/kritik8/LeetCoding/tree/master/1345-jump-game-iv) |
 ## Graph Theory
 |  |
 | ------- |
