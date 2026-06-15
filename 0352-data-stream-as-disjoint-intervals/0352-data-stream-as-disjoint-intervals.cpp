@@ -1,28 +1,38 @@
 class SummaryRanges {
 public:
-    set<int> st; // already sorted
+map<int, int> mp;
 
     SummaryRanges() {
-        st.clear();
+        mp.clear();        
     }
     
     void addNum(int value) {
-        st.insert(value);      // insertion is log(n) for sorted set - using red_black tree   
+        int left = value;
+        int right = value;
+
+        auto just_greater = mp.upper_bound(value);
+        if(just_greater != mp.begin()){
+            auto just_lower = just_greater;
+            just_lower--;
+
+            if(just_lower->second >= value)
+                return;
+
+            if(just_lower->second == (value-1))
+                left = just_lower->first; 
+        }
+        if(just_greater != mp.end() && just_greater->first == (value+1)){
+            right = just_greater->second;
+            mp.erase(just_greater);
+        }
+        mp[left]=right;
     }
     
     vector<vector<int>> getIntervals() {
-        vector<int> nums(st.begin(), st.end());
-        
         vector<vector<int>> result;
-        int n = nums.size();
 
-        for(int i=0; i<n; i++){
-            int left = nums[i];
-
-            while(i<n-1 && nums[i] + 1 == nums[i+1]){
-                i++;
-            }
-            result.push_back({left, nums[i]});
+        for(auto &it: mp){
+            result.push_back({it.first, it.second});
         }
         return result;
     }
