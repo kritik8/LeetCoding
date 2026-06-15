@@ -164,6 +164,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0036-valid-sudoku](https://github.com/kritik8/LeetCoding/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/kritik8/LeetCoding/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/kritik8/LeetCoding/tree/master/0219-contains-duplicate-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kritik8/LeetCoding/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0645-set-mismatch](https://github.com/kritik8/LeetCoding/tree/master/0645-set-mismatch) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kritik8/LeetCoding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/kritik8/LeetCoding/tree/master/0997-find-the-town-judge) |
@@ -230,6 +231,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritik8/LeetCoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kritik8/LeetCoding/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kritik8/LeetCoding/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/kritik8/LeetCoding/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Rolling Hash
@@ -305,4 +307,20 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/kritik8/LeetCoding/tree/master/0918-maximum-sum-circular-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kritik8/LeetCoding/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Design
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kritik8/LeetCoding/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kritik8/LeetCoding/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Ordered Set
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kritik8/LeetCoding/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
