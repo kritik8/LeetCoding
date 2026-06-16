@@ -144,6 +144,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0985-sum-of-even-numbers-after-queries](https://github.com/kritik8/LeetCoding/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0997-find-the-town-judge](https://github.com/kritik8/LeetCoding/tree/master/0997-find-the-town-judge) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/kritik8/LeetCoding/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1254-number-of-closed-islands](https://github.com/kritik8/LeetCoding/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kritik8/LeetCoding/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kritik8/LeetCoding/tree/master/1329-sort-the-matrix-diagonally) |
 | [1345-jump-game-iv](https://github.com/kritik8/LeetCoding/tree/master/1345-jump-game-iv) |
@@ -225,6 +226,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0766-toeplitz-matrix](https://github.com/kritik8/LeetCoding/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/kritik8/LeetCoding/tree/master/0835-image-overlap) |
 | [0909-snakes-and-ladders](https://github.com/kritik8/LeetCoding/tree/master/0909-snakes-and-ladders) |
+| [1254-number-of-closed-islands](https://github.com/kritik8/LeetCoding/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kritik8/LeetCoding/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kritik8/LeetCoding/tree/master/1329-sort-the-matrix-diagonally) |
 | [1706-where-will-the-ball-fall](https://github.com/kritik8/LeetCoding/tree/master/1706-where-will-the-ball-fall) |
@@ -271,6 +273,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/kritik8/LeetCoding/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1254-number-of-closed-islands](https://github.com/kritik8/LeetCoding/tree/master/1254-number-of-closed-islands) |
 ## Trie
 |  |
 | ------- |
@@ -291,6 +294,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [0909-snakes-and-ladders](https://github.com/kritik8/LeetCoding/tree/master/0909-snakes-and-ladders) |
+| [1254-number-of-closed-islands](https://github.com/kritik8/LeetCoding/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kritik8/LeetCoding/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1345-jump-game-iv](https://github.com/kritik8/LeetCoding/tree/master/1345-jump-game-iv) |
 ## Graph Theory
@@ -313,6 +317,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kritik8/LeetCoding/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [1254-number-of-closed-islands](https://github.com/kritik8/LeetCoding/tree/master/1254-number-of-closed-islands) |
 ## Design
 |  |
 | ------- |
