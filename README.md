@@ -156,6 +156,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kritik8/LeetCoding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2191-sort-the-jumbled-numbers](https://github.com/kritik8/LeetCoding/tree/master/2191-sort-the-jumbled-numbers) |
 | [2256-minimum-average-difference](https://github.com/kritik8/LeetCoding/tree/master/2256-minimum-average-difference) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/kritik8/LeetCoding/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kritik8/LeetCoding/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
@@ -186,6 +187,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kritik8/LeetCoding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/kritik8/LeetCoding/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/kritik8/LeetCoding/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2947-count-beautiful-substrings-i](https://github.com/kritik8/LeetCoding/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/kritik8/LeetCoding/tree/master/2949-count-beautiful-substrings-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kritik8/LeetCoding/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
