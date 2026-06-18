@@ -141,6 +141,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0835-image-overlap](https://github.com/kritik8/LeetCoding/tree/master/0835-image-overlap) |
 | [0909-snakes-and-ladders](https://github.com/kritik8/LeetCoding/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kritik8/LeetCoding/tree/master/0918-maximum-sum-circular-subarray) |
+| [0934-shortest-bridge](https://github.com/kritik8/LeetCoding/tree/master/0934-shortest-bridge) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kritik8/LeetCoding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/kritik8/LeetCoding/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -230,6 +231,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0766-toeplitz-matrix](https://github.com/kritik8/LeetCoding/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/kritik8/LeetCoding/tree/master/0835-image-overlap) |
 | [0909-snakes-and-ladders](https://github.com/kritik8/LeetCoding/tree/master/0909-snakes-and-ladders) |
+| [0934-shortest-bridge](https://github.com/kritik8/LeetCoding/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/kritik8/LeetCoding/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/kritik8/LeetCoding/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kritik8/LeetCoding/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -277,6 +279,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## Depth-First Search
 |  |
 | ------- |
+| [0934-shortest-bridge](https://github.com/kritik8/LeetCoding/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/kritik8/LeetCoding/tree/master/1020-number-of-enclaves) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/kritik8/LeetCoding/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1254-number-of-closed-islands](https://github.com/kritik8/LeetCoding/tree/master/1254-number-of-closed-islands) |
@@ -300,6 +303,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [0909-snakes-and-ladders](https://github.com/kritik8/LeetCoding/tree/master/0909-snakes-and-ladders) |
+| [0934-shortest-bridge](https://github.com/kritik8/LeetCoding/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/kritik8/LeetCoding/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/kritik8/LeetCoding/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kritik8/LeetCoding/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
