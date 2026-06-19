@@ -131,6 +131,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0075-sort-colors](https://github.com/kritik8/LeetCoding/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritik8/LeetCoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/kritik8/LeetCoding/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/kritik8/LeetCoding/tree/master/0228-summary-ranges) |
 | [0334-increasing-triplet-subsequence](https://github.com/kritik8/LeetCoding/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kritik8/LeetCoding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/kritik8/LeetCoding/tree/master/0498-diagonal-traverse) |
