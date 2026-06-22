@@ -57,6 +57,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | ------- |
 | [0049-group-anagrams](https://github.com/kritik8/LeetCoding/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/kritik8/LeetCoding/tree/master/0068-text-justification) |
+| [0127-word-ladder](https://github.com/kritik8/LeetCoding/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/kritik8/LeetCoding/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/kritik8/LeetCoding/tree/master/0214-shortest-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/kritik8/LeetCoding/tree/master/0433-minimum-genetic-mutation) |
@@ -171,6 +172,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0001-two-sum](https://github.com/kritik8/LeetCoding/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/kritik8/LeetCoding/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/kritik8/LeetCoding/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/kritik8/LeetCoding/tree/master/0127-word-ladder) |
 | [0219-contains-duplicate-ii](https://github.com/kritik8/LeetCoding/tree/master/0219-contains-duplicate-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kritik8/LeetCoding/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0433-minimum-genetic-mutation](https://github.com/kritik8/LeetCoding/tree/master/0433-minimum-genetic-mutation) |
@@ -305,6 +307,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/kritik8/LeetCoding/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/kritik8/LeetCoding/tree/master/0433-minimum-genetic-mutation) |
 | [0909-snakes-and-ladders](https://github.com/kritik8/LeetCoding/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/kritik8/LeetCoding/tree/master/0934-shortest-bridge) |
