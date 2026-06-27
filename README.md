@@ -66,6 +66,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0592-fraction-addition-and-subtraction](https://github.com/kritik8/LeetCoding/tree/master/0592-fraction-addition-and-subtraction) |
 | [0844-backspace-string-compare](https://github.com/kritik8/LeetCoding/tree/master/0844-backspace-string-compare) |
 | [0880-decoded-string-at-index](https://github.com/kritik8/LeetCoding/tree/master/0880-decoded-string-at-index) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/kritik8/LeetCoding/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/kritik8/LeetCoding/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1813-sentence-similarity-iii](https://github.com/kritik8/LeetCoding/tree/master/1813-sentence-similarity-iii) |
 | [1980-find-unique-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1980-find-unique-binary-string) |
@@ -152,6 +153,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0985-sum-of-even-numbers-after-queries](https://github.com/kritik8/LeetCoding/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0997-find-the-town-judge](https://github.com/kritik8/LeetCoding/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/kritik8/LeetCoding/tree/master/1020-number-of-enclaves) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/kritik8/LeetCoding/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/kritik8/LeetCoding/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1254-number-of-closed-islands](https://github.com/kritik8/LeetCoding/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kritik8/LeetCoding/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -184,6 +186,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/kritik8/LeetCoding/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kritik8/LeetCoding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/kritik8/LeetCoding/tree/master/0997-find-the-town-judge) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/kritik8/LeetCoding/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1345-jump-game-iv](https://github.com/kritik8/LeetCoding/tree/master/1345-jump-game-iv) |
 | [1980-find-unique-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1980-find-unique-binary-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kritik8/LeetCoding/tree/master/2007-find-original-array-from-doubled-array) |
@@ -274,6 +277,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## Counting
 |  |
 | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/kritik8/LeetCoding/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kritik8/LeetCoding/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Greedy
 |  |
