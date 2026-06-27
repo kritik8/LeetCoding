@@ -99,6 +99,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0592-fraction-addition-and-subtraction](https://github.com/kritik8/LeetCoding/tree/master/0592-fraction-addition-and-subtraction) |
 | [0844-backspace-string-compare](https://github.com/kritik8/LeetCoding/tree/master/0844-backspace-string-compare) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/kritik8/LeetCoding/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1688-count-of-matches-in-tournament](https://github.com/kritik8/LeetCoding/tree/master/1688-count-of-matches-in-tournament) |
 | [1706-where-will-the-ball-fall](https://github.com/kritik8/LeetCoding/tree/master/1706-where-will-the-ball-fall) |
 | [2109-adding-spaces-to-a-string](https://github.com/kritik8/LeetCoding/tree/master/2109-adding-spaces-to-a-string) |
 ## Sorting
@@ -203,6 +204,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0564-find-the-closest-palindrome](https://github.com/kritik8/LeetCoding/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/kritik8/LeetCoding/tree/master/0592-fraction-addition-and-subtraction) |
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
+| [1688-count-of-matches-in-tournament](https://github.com/kritik8/LeetCoding/tree/master/1688-count-of-matches-in-tournament) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kritik8/LeetCoding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/kritik8/LeetCoding/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/kritik8/LeetCoding/tree/master/2348-number-of-zero-filled-subarrays) |
