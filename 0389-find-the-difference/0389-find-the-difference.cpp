@@ -1,14 +1,12 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        int sum=0;
+        int xorr =0 ;
         for(char &ch: s){
-            sum += ch;
+            xorr ^= ch;
         }
-        int sumi=0;
         for(char &ch: t){
-            sumi += ch;
+            xorr ^= ch;
         }
-        return char(sumi-sum);
-    }
+        return (char)(xorr);    }
 };
