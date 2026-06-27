@@ -69,6 +69,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kritik8/LeetCoding/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/kritik8/LeetCoding/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1813-sentence-similarity-iii](https://github.com/kritik8/LeetCoding/tree/master/1813-sentence-similarity-iii) |
+| [1903-largest-odd-number-in-string](https://github.com/kritik8/LeetCoding/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1980-find-unique-binary-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/kritik8/LeetCoding/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kritik8/LeetCoding/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -205,6 +206,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0592-fraction-addition-and-subtraction](https://github.com/kritik8/LeetCoding/tree/master/0592-fraction-addition-and-subtraction) |
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
 | [1688-count-of-matches-in-tournament](https://github.com/kritik8/LeetCoding/tree/master/1688-count-of-matches-in-tournament) |
+| [1903-largest-odd-number-in-string](https://github.com/kritik8/LeetCoding/tree/master/1903-largest-odd-number-in-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kritik8/LeetCoding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/kritik8/LeetCoding/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/kritik8/LeetCoding/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -289,6 +291,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kritik8/LeetCoding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/kritik8/LeetCoding/tree/master/0605-can-place-flowers) |
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
+| [1903-largest-odd-number-in-string](https://github.com/kritik8/LeetCoding/tree/master/1903-largest-odd-number-in-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kritik8/LeetCoding/tree/master/2007-find-original-array-from-doubled-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kritik8/LeetCoding/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/kritik8/LeetCoding/tree/master/2486-append-characters-to-string-to-make-subsequence) |
