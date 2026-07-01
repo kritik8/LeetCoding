@@ -71,6 +71,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/kritik8/LeetCoding/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/kritik8/LeetCoding/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/kritik8/LeetCoding/tree/master/1436-destination-city) |
+| [1496-path-crossing](https://github.com/kritik8/LeetCoding/tree/master/1496-path-crossing) |
 | [1813-sentence-similarity-iii](https://github.com/kritik8/LeetCoding/tree/master/1813-sentence-similarity-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/kritik8/LeetCoding/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1980-find-unique-binary-string) |
@@ -204,6 +205,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kritik8/LeetCoding/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1345-jump-game-iv](https://github.com/kritik8/LeetCoding/tree/master/1345-jump-game-iv) |
 | [1436-destination-city](https://github.com/kritik8/LeetCoding/tree/master/1436-destination-city) |
+| [1496-path-crossing](https://github.com/kritik8/LeetCoding/tree/master/1496-path-crossing) |
 | [1980-find-unique-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1980-find-unique-binary-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kritik8/LeetCoding/tree/master/2007-find-original-array-from-doubled-array) |
 | [2947-count-beautiful-substrings-i](https://github.com/kritik8/LeetCoding/tree/master/2947-count-beautiful-substrings-i) |
