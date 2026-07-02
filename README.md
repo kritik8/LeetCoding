@@ -72,6 +72,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1422-maximum-score-after-splitting-a-string](https://github.com/kritik8/LeetCoding/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/kritik8/LeetCoding/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/kritik8/LeetCoding/tree/master/1496-path-crossing) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1813-sentence-similarity-iii](https://github.com/kritik8/LeetCoding/tree/master/1813-sentence-similarity-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/kritik8/LeetCoding/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1980-find-unique-binary-string) |
