@@ -8,10 +8,10 @@ public:
                 vec[ch-'a']++;
             }
         }
-        for(int i=0; i<26; i++){
-            if(vec[i]%n != 0)
-                return false;
-        }
+        auto lambda = [&](int freq){
+            return  freq%n==0;
+        };
+        return all_of(vec.begin(), vec.end(), lambda);
         return true;
     }
 };
