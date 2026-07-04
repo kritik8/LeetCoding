@@ -62,6 +62,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0165-compare-version-numbers](https://github.com/kritik8/LeetCoding/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/kritik8/LeetCoding/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/kritik8/LeetCoding/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/kritik8/LeetCoding/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kritik8/LeetCoding/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/kritik8/LeetCoding/tree/master/0433-minimum-genetic-mutation) |
 | [0564-find-the-closest-palindrome](https://github.com/kritik8/LeetCoding/tree/master/0564-find-the-closest-palindrome) |
@@ -204,6 +205,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0219-contains-duplicate-ii](https://github.com/kritik8/LeetCoding/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kritik8/LeetCoding/tree/master/0242-valid-anagram) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kritik8/LeetCoding/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0387-first-unique-character-in-a-string](https://github.com/kritik8/LeetCoding/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kritik8/LeetCoding/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/kritik8/LeetCoding/tree/master/0433-minimum-genetic-mutation) |
 | [0645-set-mismatch](https://github.com/kritik8/LeetCoding/tree/master/0645-set-mismatch) |
@@ -310,6 +312,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kritik8/LeetCoding/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kritik8/LeetCoding/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/kritik8/LeetCoding/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kritik8/LeetCoding/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -378,6 +381,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kritik8/LeetCoding/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kritik8/LeetCoding/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
