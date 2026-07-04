@@ -132,6 +132,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kritik8/LeetCoding/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2706-buy-two-chocolates](https://github.com/kritik8/LeetCoding/tree/master/2706-buy-two-chocolates) |
 | [2785-sort-vowels-in-a-string](https://github.com/kritik8/LeetCoding/tree/master/2785-sort-vowels-in-a-string) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/kritik8/LeetCoding/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Array
 |  |
 | ------- |
@@ -192,6 +193,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2348-number-of-zero-filled-subarrays](https://github.com/kritik8/LeetCoding/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kritik8/LeetCoding/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2706-buy-two-chocolates](https://github.com/kritik8/LeetCoding/tree/master/2706-buy-two-chocolates) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/kritik8/LeetCoding/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -326,6 +328,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/kritik8/LeetCoding/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2706-buy-two-chocolates](https://github.com/kritik8/LeetCoding/tree/master/2706-buy-two-chocolates) |
 | [2938-separate-black-and-white-balls](https://github.com/kritik8/LeetCoding/tree/master/2938-separate-black-and-white-balls) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/kritik8/LeetCoding/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Depth-First Search
 |  |
 | ------- |
