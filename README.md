@@ -74,6 +74,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1496-path-crossing](https://github.com/kritik8/LeetCoding/tree/master/1496-path-crossing) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1813-sentence-similarity-iii](https://github.com/kritik8/LeetCoding/tree/master/1813-sentence-similarity-iii) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/kritik8/LeetCoding/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/kritik8/LeetCoding/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1980-find-unique-binary-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/kritik8/LeetCoding/tree/master/2109-adding-spaces-to-a-string) |
@@ -207,6 +208,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1345-jump-game-iv](https://github.com/kritik8/LeetCoding/tree/master/1345-jump-game-iv) |
 | [1436-destination-city](https://github.com/kritik8/LeetCoding/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/kritik8/LeetCoding/tree/master/1496-path-crossing) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/kritik8/LeetCoding/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1980-find-unique-binary-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kritik8/LeetCoding/tree/master/2007-find-original-array-from-doubled-array) |
 | [2947-count-beautiful-substrings-i](https://github.com/kritik8/LeetCoding/tree/master/2947-count-beautiful-substrings-i) |
@@ -302,6 +304,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kritik8/LeetCoding/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/kritik8/LeetCoding/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kritik8/LeetCoding/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Greedy
 |  |
