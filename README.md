@@ -230,6 +230,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kritik8/LeetCoding/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/kritik8/LeetCoding/tree/master/0231-power-of-two) |
 | [0564-find-the-closest-palindrome](https://github.com/kritik8/LeetCoding/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/kritik8/LeetCoding/tree/master/0592-fraction-addition-and-subtraction) |
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
@@ -355,6 +356,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kritik8/LeetCoding/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/kritik8/LeetCoding/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/kritik8/LeetCoding/tree/master/0645-set-mismatch) |
 ## Breadth-First Search
@@ -410,4 +412,8 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kritik8/LeetCoding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/kritik8/LeetCoding/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
