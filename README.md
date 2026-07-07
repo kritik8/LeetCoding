@@ -51,6 +51,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1813-sentence-similarity-iii](https://github.com/kritik8/LeetCoding/tree/master/1813-sentence-similarity-iii) |
 | [2109-adding-spaces-to-a-string](https://github.com/kritik8/LeetCoding/tree/master/2109-adding-spaces-to-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/kritik8/LeetCoding/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2540-minimum-common-value](https://github.com/kritik8/LeetCoding/tree/master/2540-minimum-common-value) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/kritik8/LeetCoding/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2938-separate-black-and-white-balls](https://github.com/kritik8/LeetCoding/tree/master/2938-separate-black-and-white-balls) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/kritik8/LeetCoding/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
@@ -199,6 +200,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2256-minimum-average-difference](https://github.com/kritik8/LeetCoding/tree/master/2256-minimum-average-difference) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/kritik8/LeetCoding/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kritik8/LeetCoding/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2540-minimum-common-value](https://github.com/kritik8/LeetCoding/tree/master/2540-minimum-common-value) |
 | [2706-buy-two-chocolates](https://github.com/kritik8/LeetCoding/tree/master/2706-buy-two-chocolates) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/kritik8/LeetCoding/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/kritik8/LeetCoding/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -228,6 +230,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/kritik8/LeetCoding/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1980-find-unique-binary-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kritik8/LeetCoding/tree/master/2007-find-original-array-from-doubled-array) |
+| [2540-minimum-common-value](https://github.com/kritik8/LeetCoding/tree/master/2540-minimum-common-value) |
 | [2947-count-beautiful-substrings-i](https://github.com/kritik8/LeetCoding/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/kritik8/LeetCoding/tree/master/2949-count-beautiful-substrings-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/kritik8/LeetCoding/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -306,6 +309,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0268-missing-number](https://github.com/kritik8/LeetCoding/tree/master/0268-missing-number) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kritik8/LeetCoding/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kritik8/LeetCoding/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2540-minimum-common-value](https://github.com/kritik8/LeetCoding/tree/master/2540-minimum-common-value) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/kritik8/LeetCoding/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Rolling Hash
 |  |
