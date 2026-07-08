@@ -359,6 +359,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1020-number-of-enclaves](https://github.com/kritik8/LeetCoding/tree/master/1020-number-of-enclaves) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/kritik8/LeetCoding/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1254-number-of-closed-islands](https://github.com/kritik8/LeetCoding/tree/master/1254-number-of-closed-islands) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/kritik8/LeetCoding/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -435,4 +436,12 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kritik8/LeetCoding/tree/master/0231-power-of-two) |
+## Tree
+|  |
+| ------- |
+| [2331-evaluate-boolean-binary-tree](https://github.com/kritik8/LeetCoding/tree/master/2331-evaluate-boolean-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2331-evaluate-boolean-binary-tree](https://github.com/kritik8/LeetCoding/tree/master/2331-evaluate-boolean-binary-tree) |
 <!---LeetCode Topics End-->
