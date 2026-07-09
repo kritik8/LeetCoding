@@ -45,6 +45,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0075-sort-colors](https://github.com/kritik8/LeetCoding/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/kritik8/LeetCoding/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritik8/LeetCoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/kritik8/LeetCoding/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kritik8/LeetCoding/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/kritik8/LeetCoding/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/kritik8/LeetCoding/tree/master/0977-squares-of-a-sorted-array) |
@@ -125,6 +126,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0075-sort-colors](https://github.com/kritik8/LeetCoding/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/kritik8/LeetCoding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kritik8/LeetCoding/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kritik8/LeetCoding/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/kritik8/LeetCoding/tree/master/0389-find-the-difference) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kritik8/LeetCoding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kritik8/LeetCoding/tree/master/0455-assign-cookies) |
@@ -161,6 +163,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0228-summary-ranges](https://github.com/kritik8/LeetCoding/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/kritik8/LeetCoding/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/kritik8/LeetCoding/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/kritik8/LeetCoding/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kritik8/LeetCoding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kritik8/LeetCoding/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/kritik8/LeetCoding/tree/master/0498-diagonal-traverse) |
@@ -214,6 +217,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0219-contains-duplicate-ii](https://github.com/kritik8/LeetCoding/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kritik8/LeetCoding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kritik8/LeetCoding/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kritik8/LeetCoding/tree/master/0349-intersection-of-two-arrays) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kritik8/LeetCoding/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0387-first-unique-character-in-a-string](https://github.com/kritik8/LeetCoding/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kritik8/LeetCoding/tree/master/0389-find-the-difference) |
@@ -307,6 +311,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritik8/LeetCoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kritik8/LeetCoding/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kritik8/LeetCoding/tree/master/0349-intersection-of-two-arrays) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kritik8/LeetCoding/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kritik8/LeetCoding/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2540-minimum-common-value](https://github.com/kritik8/LeetCoding/tree/master/2540-minimum-common-value) |
