@@ -1,17 +1,38 @@
 class Solution {
 public:
-    vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
-        unordered_set<int> st(begin(nums1), end(nums1));
+    
+    bool binarySearch(vector<int>& nums, int target) {
+        int l = 0, r = nums.size()-1;
         
-        vector<int> result;
-        
-        for(int &num : nums2) {
-            if(st.find(num) != st.end()) {
-                result.push_back(num);
-                st.erase(num);
-            }    
+        while(l <= r) {
+            int mid = l + (r-l)/2;
+            
+            if(nums[mid] == target) {
+                return true;
+            } else if(nums[mid] < target) {
+                l = mid+1;
+            } else {
+                r = mid-1;
+            }
         }
         
+        return false;
+    }
+    
+    vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
+        sort(begin(nums1), end(nums1));
+        
+        unordered_set<int> st;
+        
+        for(int &num : nums2) {
+            if(binarySearch(nums1, num)) {
+                st.insert(num);
+            }
+        }
+        
+        vector<int> result(begin(st), end(st));
+        
         return result;
+        
     }
 };
