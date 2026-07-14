@@ -63,6 +63,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0068-text-justification](https://github.com/kritik8/LeetCoding/tree/master/0068-text-justification) |
 | [0127-word-ladder](https://github.com/kritik8/LeetCoding/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/kritik8/LeetCoding/tree/master/0165-compare-version-numbers) |
+| [0205-isomorphic-strings](https://github.com/kritik8/LeetCoding/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/kritik8/LeetCoding/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/kritik8/LeetCoding/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kritik8/LeetCoding/tree/master/0387-first-unique-character-in-a-string) |
@@ -214,6 +215,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0036-valid-sudoku](https://github.com/kritik8/LeetCoding/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/kritik8/LeetCoding/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/kritik8/LeetCoding/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/kritik8/LeetCoding/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/kritik8/LeetCoding/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kritik8/LeetCoding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kritik8/LeetCoding/tree/master/0268-missing-number) |
