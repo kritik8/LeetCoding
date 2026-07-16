@@ -78,6 +78,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1422-maximum-score-after-splitting-a-string](https://github.com/kritik8/LeetCoding/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/kritik8/LeetCoding/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/kritik8/LeetCoding/tree/master/1496-path-crossing) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritik8/LeetCoding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/kritik8/LeetCoding/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1813-sentence-similarity-iii](https://github.com/kritik8/LeetCoding/tree/master/1813-sentence-similarity-iii) |
@@ -104,6 +105,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0042-trapping-rain-water](https://github.com/kritik8/LeetCoding/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/kritik8/LeetCoding/tree/master/0844-backspace-string-compare) |
 | [0880-decoded-string-at-index](https://github.com/kritik8/LeetCoding/tree/master/0880-decoded-string-at-index) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritik8/LeetCoding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
