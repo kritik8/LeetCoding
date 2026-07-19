@@ -106,6 +106,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0844-backspace-string-compare](https://github.com/kritik8/LeetCoding/tree/master/0844-backspace-string-compare) |
 | [0880-decoded-string-at-index](https://github.com/kritik8/LeetCoding/tree/master/0880-decoded-string-at-index) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritik8/LeetCoding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/kritik8/LeetCoding/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
 | ------- |
@@ -118,6 +119,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0867-transpose-matrix](https://github.com/kritik8/LeetCoding/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/kritik8/LeetCoding/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1688-count-of-matches-in-tournament](https://github.com/kritik8/LeetCoding/tree/master/1688-count-of-matches-in-tournament) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/kritik8/LeetCoding/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1706-where-will-the-ball-fall](https://github.com/kritik8/LeetCoding/tree/master/1706-where-will-the-ball-fall) |
 | [2109-adding-spaces-to-a-string](https://github.com/kritik8/LeetCoding/tree/master/2109-adding-spaces-to-a-string) |
 ## Sorting
@@ -195,6 +197,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1436-destination-city](https://github.com/kritik8/LeetCoding/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kritik8/LeetCoding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kritik8/LeetCoding/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/kritik8/LeetCoding/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1706-where-will-the-ball-fall](https://github.com/kritik8/LeetCoding/tree/master/1706-where-will-the-ball-fall) |
 | [1813-sentence-similarity-iii](https://github.com/kritik8/LeetCoding/tree/master/1813-sentence-similarity-iii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kritik8/LeetCoding/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -414,6 +417,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kritik8/LeetCoding/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kritik8/LeetCoding/tree/master/0918-maximum-sum-circular-subarray) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/kritik8/LeetCoding/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
 | ------- |
