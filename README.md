@@ -366,6 +366,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## Depth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/kritik8/LeetCoding/tree/master/0404-sum-of-left-leaves) |
 | [0934-shortest-bridge](https://github.com/kritik8/LeetCoding/tree/master/0934-shortest-bridge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/kritik8/LeetCoding/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/kritik8/LeetCoding/tree/master/1020-number-of-enclaves) |
@@ -395,6 +396,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/kritik8/LeetCoding/tree/master/0127-word-ladder) |
+| [0404-sum-of-left-leaves](https://github.com/kritik8/LeetCoding/tree/master/0404-sum-of-left-leaves) |
 | [0433-minimum-genetic-mutation](https://github.com/kritik8/LeetCoding/tree/master/0433-minimum-genetic-mutation) |
 | [0909-snakes-and-ladders](https://github.com/kritik8/LeetCoding/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/kritik8/LeetCoding/tree/master/0934-shortest-bridge) |
@@ -452,9 +454,11 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/kritik8/LeetCoding/tree/master/0404-sum-of-left-leaves) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/kritik8/LeetCoding/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/kritik8/LeetCoding/tree/master/0404-sum-of-left-leaves) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/kritik8/LeetCoding/tree/master/2331-evaluate-boolean-binary-tree) |
 <!---LeetCode Topics End-->
