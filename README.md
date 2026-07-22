@@ -260,6 +260,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0564-find-the-closest-palindrome](https://github.com/kritik8/LeetCoding/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/kritik8/LeetCoding/tree/master/0592-fraction-addition-and-subtraction) |
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
+| [1137-n-th-tribonacci-number](https://github.com/kritik8/LeetCoding/tree/master/1137-n-th-tribonacci-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/kritik8/LeetCoding/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/kritik8/LeetCoding/tree/master/1903-largest-odd-number-in-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kritik8/LeetCoding/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -293,6 +294,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kritik8/LeetCoding/tree/master/0042-trapping-rain-water) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kritik8/LeetCoding/tree/master/0918-maximum-sum-circular-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/kritik8/LeetCoding/tree/master/1137-n-th-tribonacci-number) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/kritik8/LeetCoding/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Matrix
 |  |
@@ -464,4 +466,8 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/kritik8/LeetCoding/tree/master/0404-sum-of-left-leaves) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/kritik8/LeetCoding/tree/master/2331-evaluate-boolean-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/kritik8/LeetCoding/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
