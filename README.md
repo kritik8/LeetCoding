@@ -50,6 +50,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0844-backspace-string-compare](https://github.com/kritik8/LeetCoding/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/kritik8/LeetCoding/tree/master/0977-squares-of-a-sorted-array) |
 | [1813-sentence-similarity-iii](https://github.com/kritik8/LeetCoding/tree/master/1813-sentence-similarity-iii) |
+| [2000-reverse-prefix-of-word](https://github.com/kritik8/LeetCoding/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/kritik8/LeetCoding/tree/master/2109-adding-spaces-to-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/kritik8/LeetCoding/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2540-minimum-common-value](https://github.com/kritik8/LeetCoding/tree/master/2540-minimum-common-value) |
@@ -85,6 +86,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/kritik8/LeetCoding/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/kritik8/LeetCoding/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1980-find-unique-binary-string) |
+| [2000-reverse-prefix-of-word](https://github.com/kritik8/LeetCoding/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/kritik8/LeetCoding/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kritik8/LeetCoding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/kritik8/LeetCoding/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -107,6 +109,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0880-decoded-string-at-index](https://github.com/kritik8/LeetCoding/tree/master/0880-decoded-string-at-index) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritik8/LeetCoding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kritik8/LeetCoding/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2000-reverse-prefix-of-word](https://github.com/kritik8/LeetCoding/tree/master/2000-reverse-prefix-of-word) |
 ## Simulation
 |  |
 | ------- |
