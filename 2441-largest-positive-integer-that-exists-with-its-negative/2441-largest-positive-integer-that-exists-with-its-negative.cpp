@@ -1,18 +1,19 @@
 class Solution {
 public:
     int findMaxK(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
         int result = -1;
-        
-        for (int &i : nums) {
-            for (int &j : nums) {
-                // If there exists a number j such that i is the negative of j
-                if (i == -j) {
-                    // Update the answer to the maximum of current ans and absolute value of i
-                    result = max(result, abs(i));
-                }
-            }
+        int i=0;
+        int j = nums.size()-1;
+        while(i<j){
+            if(-nums[i]==nums[j])
+                return nums[j];
+            
+            if(-nums[i] < nums[j])
+                j--;
+            else
+                i++;
         }
-
         return result;
     }
 };
