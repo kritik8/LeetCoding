@@ -217,6 +217,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2191-sort-the-jumbled-numbers](https://github.com/kritik8/LeetCoding/tree/master/2191-sort-the-jumbled-numbers) |
 | [2256-minimum-average-difference](https://github.com/kritik8/LeetCoding/tree/master/2256-minimum-average-difference) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/kritik8/LeetCoding/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/kritik8/LeetCoding/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kritik8/LeetCoding/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kritik8/LeetCoding/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/kritik8/LeetCoding/tree/master/2540-minimum-common-value) |
@@ -326,6 +327,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1706-where-will-the-ball-fall](https://github.com/kritik8/LeetCoding/tree/master/1706-where-will-the-ball-fall) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kritik8/LeetCoding/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kritik8/LeetCoding/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/kritik8/LeetCoding/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Binary Search
 |  |
 | ------- |
