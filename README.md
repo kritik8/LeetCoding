@@ -208,6 +208,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kritik8/LeetCoding/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1706-where-will-the-ball-fall](https://github.com/kritik8/LeetCoding/tree/master/1706-where-will-the-ball-fall) |
 | [1813-sentence-similarity-iii](https://github.com/kritik8/LeetCoding/tree/master/1813-sentence-similarity-iii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kritik8/LeetCoding/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kritik8/LeetCoding/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1980-find-unique-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1980-find-unique-binary-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kritik8/LeetCoding/tree/master/2007-find-original-array-from-doubled-array) |
@@ -260,6 +261,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## Backtracking
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kritik8/LeetCoding/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1980-find-unique-binary-string) |
 ## Math
 |  |
@@ -272,6 +274,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/kritik8/LeetCoding/tree/master/1137-n-th-tribonacci-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/kritik8/LeetCoding/tree/master/1688-count-of-matches-in-tournament) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kritik8/LeetCoding/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/kritik8/LeetCoding/tree/master/1903-largest-odd-number-in-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kritik8/LeetCoding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/kritik8/LeetCoding/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -283,6 +286,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kritik8/LeetCoding/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2947-count-beautiful-substrings-i](https://github.com/kritik8/LeetCoding/tree/master/2947-count-beautiful-substrings-i) |
 ## Number Theory
 |  |
@@ -407,6 +411,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0268-missing-number](https://github.com/kritik8/LeetCoding/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kritik8/LeetCoding/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/kritik8/LeetCoding/tree/master/0645-set-mismatch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kritik8/LeetCoding/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -482,4 +487,8 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/kritik8/LeetCoding/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kritik8/LeetCoding/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
