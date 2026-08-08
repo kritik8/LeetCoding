@@ -12,17 +12,14 @@
 class Solution {
 public:
     bool evaluateTree(TreeNode* root) {
-        
         if(root->left == NULL && root->right == NULL)
             return root->val;
-
         bool a = evaluateTree(root->left);
         bool b = evaluateTree(root->right);
-
-        if(root->val ==2){
+        if(root->val ==2)
             return a|b;
-        }
-        return a&b;
+        else
+            return a&b;
     }
 
 };
