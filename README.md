@@ -439,6 +439,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/kritik8/LeetCoding/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/kritik8/LeetCoding/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/kritik8/LeetCoding/tree/master/1791-find-center-of-star-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
