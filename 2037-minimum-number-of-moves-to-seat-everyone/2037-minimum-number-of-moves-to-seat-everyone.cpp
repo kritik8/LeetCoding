@@ -1,12 +1,25 @@
 class Solution {
 public:
     int minMovesToSeat(vector<int>& seats, vector<int>& students) {
-        sort(seats.begin(), seats.end());
-        sort(students.begin(), students.end());
-        int moves=0;
         int n = seats.size();
-        for(int i=0; i<n; i++){
-            moves += abs(seats[i]-students[i]);
+        vector<int> posseat(101, 0);
+        vector<int> posstu(101, 0);
+        for(int &pos: seats){
+            posseat[pos]++;
+        }for(int &pos: students){
+            posstu[pos]++;
+        }
+        int i=0, j=0;
+        int moves=0;
+        while(i<=100 && j<= 100){
+            if(posseat[i] == 0) i++;
+            if(posstu[j]==0) j++;
+
+            if(i<=100 & j<= 100 && posseat[i] != 0 && posstu[j] != 0){
+                moves += abs(i-j);
+                posseat[i]--;
+                posstu[j]--;
+            }
         }
         return moves;
     }
