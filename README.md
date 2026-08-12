@@ -192,6 +192,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0724-find-pivot-index](https://github.com/kritik8/LeetCoding/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/kritik8/LeetCoding/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/kritik8/LeetCoding/tree/master/0835-image-overlap) |
+| [0860-lemonade-change](https://github.com/kritik8/LeetCoding/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/kritik8/LeetCoding/tree/master/0867-transpose-matrix) |
 | [0909-snakes-and-ladders](https://github.com/kritik8/LeetCoding/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kritik8/LeetCoding/tree/master/0918-maximum-sum-circular-subarray) |
@@ -388,6 +389,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kritik8/LeetCoding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kritik8/LeetCoding/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/kritik8/LeetCoding/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/kritik8/LeetCoding/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
 | [1903-largest-odd-number-in-string](https://github.com/kritik8/LeetCoding/tree/master/1903-largest-odd-number-in-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kritik8/LeetCoding/tree/master/2007-find-original-array-from-doubled-array) |
