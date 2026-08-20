@@ -133,6 +133,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2073-time-needed-to-buy-tickets](https://github.com/kritik8/LeetCoding/tree/master/2073-time-needed-to-buy-tickets) |
 | [2109-adding-spaces-to-a-string](https://github.com/kritik8/LeetCoding/tree/master/2109-adding-spaces-to-a-string) |
 | [2582-pass-the-pillow](https://github.com/kritik8/LeetCoding/tree/master/2582-pass-the-pillow) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kritik8/LeetCoding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -237,6 +238,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2706-buy-two-chocolates](https://github.com/kritik8/LeetCoding/tree/master/2706-buy-two-chocolates) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/kritik8/LeetCoding/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/kritik8/LeetCoding/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kritik8/LeetCoding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kritik8/LeetCoding/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
