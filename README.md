@@ -89,6 +89,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1813-sentence-similarity-iii](https://github.com/kritik8/LeetCoding/tree/master/1813-sentence-similarity-iii) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/kritik8/LeetCoding/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/kritik8/LeetCoding/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/kritik8/LeetCoding/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/kritik8/LeetCoding/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/kritik8/LeetCoding/tree/master/2109-adding-spaces-to-a-string) |
@@ -297,6 +298,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1688-count-of-matches-in-tournament](https://github.com/kritik8/LeetCoding/tree/master/1688-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kritik8/LeetCoding/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/kritik8/LeetCoding/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/kritik8/LeetCoding/tree/master/1927-sum-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kritik8/LeetCoding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/kritik8/LeetCoding/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/kritik8/LeetCoding/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -401,6 +403,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0860-lemonade-change](https://github.com/kritik8/LeetCoding/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
 | [1903-largest-odd-number-in-string](https://github.com/kritik8/LeetCoding/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/kritik8/LeetCoding/tree/master/1927-sum-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/kritik8/LeetCoding/tree/master/2007-find-original-array-from-doubled-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kritik8/LeetCoding/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kritik8/LeetCoding/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -524,4 +527,8 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kritik8/LeetCoding/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/kritik8/LeetCoding/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
