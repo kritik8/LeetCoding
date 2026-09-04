@@ -244,6 +244,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kritik8/LeetCoding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kritik8/LeetCoding/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kritik8/LeetCoding/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/kritik8/LeetCoding/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -331,6 +332,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kritik8/LeetCoding/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2947-count-beautiful-substrings-i](https://github.com/kritik8/LeetCoding/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/kritik8/LeetCoding/tree/master/2949-count-beautiful-substrings-ii) |
+| [3903-smallest-stable-index-i](https://github.com/kritik8/LeetCoding/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
