@@ -243,6 +243,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [3005-count-elements-with-maximum-frequency](https://github.com/kritik8/LeetCoding/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kritik8/LeetCoding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kritik8/LeetCoding/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritik8/LeetCoding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kritik8/LeetCoding/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kritik8/LeetCoding/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kritik8/LeetCoding/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -284,6 +285,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [3005-count-elements-with-maximum-frequency](https://github.com/kritik8/LeetCoding/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kritik8/LeetCoding/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kritik8/LeetCoding/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritik8/LeetCoding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kritik8/LeetCoding/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Backtracking
 |  |
@@ -367,6 +369,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kritik8/LeetCoding/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kritik8/LeetCoding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/kritik8/LeetCoding/tree/master/2373-largest-local-values-in-a-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritik8/LeetCoding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -453,6 +456,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0389-find-the-difference](https://github.com/kritik8/LeetCoding/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/kritik8/LeetCoding/tree/master/0645-set-mismatch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kritik8/LeetCoding/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritik8/LeetCoding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -466,6 +470,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kritik8/LeetCoding/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1345-jump-game-iv](https://github.com/kritik8/LeetCoding/tree/master/1345-jump-game-iv) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kritik8/LeetCoding/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritik8/LeetCoding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
