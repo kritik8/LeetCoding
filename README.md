@@ -316,6 +316,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2949-count-beautiful-substrings-ii](https://github.com/kritik8/LeetCoding/tree/master/2949-count-beautiful-substrings-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kritik8/LeetCoding/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kritik8/LeetCoding/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/kritik8/LeetCoding/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kritik8/LeetCoding/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kritik8/LeetCoding/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Enumeration
