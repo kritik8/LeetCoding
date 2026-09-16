@@ -305,6 +305,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/kritik8/LeetCoding/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/kritik8/LeetCoding/tree/master/1518-water-bottles) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kritik8/LeetCoding/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/kritik8/LeetCoding/tree/master/1688-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kritik8/LeetCoding/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/kritik8/LeetCoding/tree/master/1903-largest-odd-number-in-string) |
@@ -338,6 +339,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0724-find-pivot-index](https://github.com/kritik8/LeetCoding/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kritik8/LeetCoding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/kritik8/LeetCoding/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kritik8/LeetCoding/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2256-minimum-average-difference](https://github.com/kritik8/LeetCoding/tree/master/2256-minimum-average-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kritik8/LeetCoding/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2947-count-beautiful-substrings-i](https://github.com/kritik8/LeetCoding/tree/master/2947-count-beautiful-substrings-i) |
@@ -349,6 +351,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0042-trapping-rain-water](https://github.com/kritik8/LeetCoding/tree/master/0042-trapping-rain-water) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kritik8/LeetCoding/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/kritik8/LeetCoding/tree/master/1137-n-th-tribonacci-number) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kritik8/LeetCoding/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/kritik8/LeetCoding/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Matrix
 |  |
@@ -542,6 +545,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kritik8/LeetCoding/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kritik8/LeetCoding/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Counting Sort
 |  |
