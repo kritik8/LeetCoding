@@ -300,6 +300,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/kritik8/LeetCoding/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/kritik8/LeetCoding/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/kritik8/LeetCoding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kritik8/LeetCoding/tree/master/0268-missing-number) |
