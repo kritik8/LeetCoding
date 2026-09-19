@@ -61,6 +61,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kritik8/LeetCoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/kritik8/LeetCoding/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/kritik8/LeetCoding/tree/master/0068-text-justification) |
 | [0127-word-ladder](https://github.com/kritik8/LeetCoding/tree/master/0127-word-ladder) |
@@ -255,6 +256,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kritik8/LeetCoding/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kritik8/LeetCoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/kritik8/LeetCoding/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/kritik8/LeetCoding/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/kritik8/LeetCoding/tree/master/0127-word-ladder) |
@@ -456,6 +458,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kritik8/LeetCoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/kritik8/LeetCoding/tree/master/0219-contains-duplicate-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kritik8/LeetCoding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kritik8/LeetCoding/tree/master/3090-maximum-length-substring-with-two-occurrences) |
