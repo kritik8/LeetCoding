@@ -310,6 +310,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0592-fraction-addition-and-subtraction](https://github.com/kritik8/LeetCoding/tree/master/0592-fraction-addition-and-subtraction) |
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/kritik8/LeetCoding/tree/master/1137-n-th-tribonacci-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/kritik8/LeetCoding/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1518-water-bottles](https://github.com/kritik8/LeetCoding/tree/master/1518-water-bottles) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kritik8/LeetCoding/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/kritik8/LeetCoding/tree/master/1688-count-of-matches-in-tournament) |
@@ -562,4 +563,8 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/kritik8/LeetCoding/tree/master/1927-sum-game) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/kritik8/LeetCoding/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
