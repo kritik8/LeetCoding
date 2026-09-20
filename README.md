@@ -109,6 +109,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kritik8/LeetCoding/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kritik8/LeetCoding/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3163-string-compression-iii](https://github.com/kritik8/LeetCoding/tree/master/3163-string-compression-iii) |
+| [3498-reverse-degree-of-a-string](https://github.com/kritik8/LeetCoding/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -138,6 +139,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2109-adding-spaces-to-a-string](https://github.com/kritik8/LeetCoding/tree/master/2109-adding-spaces-to-a-string) |
 | [2582-pass-the-pillow](https://github.com/kritik8/LeetCoding/tree/master/2582-pass-the-pillow) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kritik8/LeetCoding/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/kritik8/LeetCoding/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
