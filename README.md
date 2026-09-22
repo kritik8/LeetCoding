@@ -62,6 +62,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kritik8/LeetCoding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/kritik8/LeetCoding/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/kritik8/LeetCoding/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/kritik8/LeetCoding/tree/master/0068-text-justification) |
 | [0127-word-ladder](https://github.com/kritik8/LeetCoding/tree/master/0127-word-ladder) |
@@ -260,6 +261,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | ------- |
 | [0001-two-sum](https://github.com/kritik8/LeetCoding/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kritik8/LeetCoding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/kritik8/LeetCoding/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/kritik8/LeetCoding/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/kritik8/LeetCoding/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/kritik8/LeetCoding/tree/master/0127-word-ladder) |
@@ -306,6 +308,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kritik8/LeetCoding/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/kritik8/LeetCoding/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/kritik8/LeetCoding/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/kritik8/LeetCoding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kritik8/LeetCoding/tree/master/0268-missing-number) |
