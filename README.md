@@ -252,6 +252,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kritik8/LeetCoding/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kritik8/LeetCoding/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/kritik8/LeetCoding/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kritik8/LeetCoding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritik8/LeetCoding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kritik8/LeetCoding/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kritik8/LeetCoding/tree/master/3875-construct-uniform-parity-array-i) |
@@ -334,6 +335,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2949-count-beautiful-substrings-ii](https://github.com/kritik8/LeetCoding/tree/master/2949-count-beautiful-substrings-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kritik8/LeetCoding/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3524-find-x-value-of-array-i](https://github.com/kritik8/LeetCoding/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kritik8/LeetCoding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kritik8/LeetCoding/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/kritik8/LeetCoding/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kritik8/LeetCoding/tree/master/3875-construct-uniform-parity-array-i) |
