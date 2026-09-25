@@ -63,6 +63,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kritik8/LeetCoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/kritik8/LeetCoding/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/kritik8/LeetCoding/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/kritik8/LeetCoding/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/kritik8/LeetCoding/tree/master/0068-text-justification) |
 | [0127-word-ladder](https://github.com/kritik8/LeetCoding/tree/master/0127-word-ladder) |
@@ -174,6 +175,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | ------- |
 | [0001-two-sum](https://github.com/kritik8/LeetCoding/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kritik8/LeetCoding/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/kritik8/LeetCoding/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kritik8/LeetCoding/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kritik8/LeetCoding/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/kritik8/LeetCoding/tree/master/0031-next-permutation) |
@@ -465,6 +467,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kritik8/LeetCoding/tree/master/0014-longest-common-prefix) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/kritik8/LeetCoding/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 ## Monotonic Stack
 |  |
