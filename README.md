@@ -65,6 +65,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0013-roman-to-integer](https://github.com/kritik8/LeetCoding/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kritik8/LeetCoding/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kritik8/LeetCoding/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/kritik8/LeetCoding/tree/master/0068-text-justification) |
 | [0127-word-ladder](https://github.com/kritik8/LeetCoding/tree/master/0127-word-ladder) |
@@ -309,6 +310,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0022-generate-parentheses) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kritik8/LeetCoding/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/kritik8/LeetCoding/tree/master/1980-find-unique-binary-string) |
 ## Math
@@ -371,6 +373,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kritik8/LeetCoding/tree/master/0042-trapping-rain-water) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kritik8/LeetCoding/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/kritik8/LeetCoding/tree/master/1137-n-th-tribonacci-number) |
@@ -591,5 +594,6 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritik8/LeetCoding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
