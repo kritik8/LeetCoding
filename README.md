@@ -80,6 +80,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0433-minimum-genetic-mutation](https://github.com/kritik8/LeetCoding/tree/master/0433-minimum-genetic-mutation) |
 | [0564-find-the-closest-palindrome](https://github.com/kritik8/LeetCoding/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/kritik8/LeetCoding/tree/master/0592-fraction-addition-and-subtraction) |
+| [0678-valid-parenthesis-string](https://github.com/kritik8/LeetCoding/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/kritik8/LeetCoding/tree/master/0844-backspace-string-compare) |
 | [0880-decoded-string-at-index](https://github.com/kritik8/LeetCoding/tree/master/0880-decoded-string-at-index) |
 | [1002-find-common-characters](https://github.com/kritik8/LeetCoding/tree/master/1002-find-common-characters) |
@@ -121,6 +122,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0020-valid-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kritik8/LeetCoding/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/kritik8/LeetCoding/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/kritik8/LeetCoding/tree/master/0844-backspace-string-compare) |
 | [0880-decoded-string-at-index](https://github.com/kritik8/LeetCoding/tree/master/0880-decoded-string-at-index) |
 | [1598-crawler-log-folder](https://github.com/kritik8/LeetCoding/tree/master/1598-crawler-log-folder) |
@@ -378,6 +380,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0022-generate-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kritik8/LeetCoding/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/kritik8/LeetCoding/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kritik8/LeetCoding/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/kritik8/LeetCoding/tree/master/1137-n-th-tribonacci-number) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kritik8/LeetCoding/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -450,6 +453,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kritik8/LeetCoding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kritik8/LeetCoding/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/kritik8/LeetCoding/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/kritik8/LeetCoding/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/kritik8/LeetCoding/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
 | [1903-largest-odd-number-in-string](https://github.com/kritik8/LeetCoding/tree/master/1903-largest-odd-number-in-string) |
@@ -599,5 +603,6 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0020-valid-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kritik8/LeetCoding/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritik8/LeetCoding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
