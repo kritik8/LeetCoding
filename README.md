@@ -82,6 +82,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0592-fraction-addition-and-subtraction](https://github.com/kritik8/LeetCoding/tree/master/0592-fraction-addition-and-subtraction) |
 | [0678-valid-parenthesis-string](https://github.com/kritik8/LeetCoding/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/kritik8/LeetCoding/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/kritik8/LeetCoding/tree/master/0880-decoded-string-at-index) |
 | [1002-find-common-characters](https://github.com/kritik8/LeetCoding/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kritik8/LeetCoding/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -124,6 +125,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0042-trapping-rain-water](https://github.com/kritik8/LeetCoding/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/kritik8/LeetCoding/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/kritik8/LeetCoding/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/kritik8/LeetCoding/tree/master/0880-decoded-string-at-index) |
 | [1598-crawler-log-folder](https://github.com/kritik8/LeetCoding/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritik8/LeetCoding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -604,5 +606,6 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0022-generate-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/kritik8/LeetCoding/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritik8/LeetCoding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
