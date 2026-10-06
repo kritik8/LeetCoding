@@ -84,6 +84,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0844-backspace-string-compare](https://github.com/kritik8/LeetCoding/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/kritik8/LeetCoding/tree/master/0880-decoded-string-at-index) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kritik8/LeetCoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/kritik8/LeetCoding/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kritik8/LeetCoding/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/kritik8/LeetCoding/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -127,6 +128,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0844-backspace-string-compare](https://github.com/kritik8/LeetCoding/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/kritik8/LeetCoding/tree/master/0880-decoded-string-at-index) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kritik8/LeetCoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1598-crawler-log-folder](https://github.com/kritik8/LeetCoding/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritik8/LeetCoding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kritik8/LeetCoding/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -457,6 +459,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0605-can-place-flowers](https://github.com/kritik8/LeetCoding/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/kritik8/LeetCoding/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/kritik8/LeetCoding/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kritik8/LeetCoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
 | [1903-largest-odd-number-in-string](https://github.com/kritik8/LeetCoding/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/kritik8/LeetCoding/tree/master/1927-sum-game) |
@@ -607,5 +610,6 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0032-longest-valid-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/kritik8/LeetCoding/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kritik8/LeetCoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritik8/LeetCoding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
