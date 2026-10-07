@@ -40,6 +40,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0011-container-with-most-water](https://github.com/kritik8/LeetCoding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kritik8/LeetCoding/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kritik8/LeetCoding/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/kritik8/LeetCoding/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kritik8/LeetCoding/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kritik8/LeetCoding/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kritik8/LeetCoding/tree/master/0075-sort-colors) |
@@ -189,6 +190,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0014-longest-common-prefix](https://github.com/kritik8/LeetCoding/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kritik8/LeetCoding/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kritik8/LeetCoding/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/kritik8/LeetCoding/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kritik8/LeetCoding/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/kritik8/LeetCoding/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/kritik8/LeetCoding/tree/master/0042-trapping-rain-water) |
