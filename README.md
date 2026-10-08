@@ -87,6 +87,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0880-decoded-string-at-index](https://github.com/kritik8/LeetCoding/tree/master/0880-decoded-string-at-index) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kritik8/LeetCoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/kritik8/LeetCoding/tree/master/1002-find-common-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/kritik8/LeetCoding/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kritik8/LeetCoding/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/kritik8/LeetCoding/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/kritik8/LeetCoding/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -130,6 +131,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0856-score-of-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/kritik8/LeetCoding/tree/master/0880-decoded-string-at-index) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kritik8/LeetCoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/kritik8/LeetCoding/tree/master/1021-remove-outermost-parentheses) |
 | [1598-crawler-log-folder](https://github.com/kritik8/LeetCoding/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritik8/LeetCoding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kritik8/LeetCoding/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -613,5 +615,6 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0678-valid-parenthesis-string](https://github.com/kritik8/LeetCoding/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kritik8/LeetCoding/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kritik8/LeetCoding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/kritik8/LeetCoding/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritik8/LeetCoding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
