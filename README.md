@@ -184,6 +184,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2785-sort-vowels-in-a-string](https://github.com/kritik8/LeetCoding/tree/master/2785-sort-vowels-in-a-string) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/kritik8/LeetCoding/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kritik8/LeetCoding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kritik8/LeetCoding/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Array
 |  |
 | ------- |
@@ -272,6 +273,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kritik8/LeetCoding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritik8/LeetCoding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kritik8/LeetCoding/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kritik8/LeetCoding/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kritik8/LeetCoding/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kritik8/LeetCoding/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kritik8/LeetCoding/tree/master/3903-smallest-stable-index-i) |
@@ -475,6 +477,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2864-maximum-odd-binary-number](https://github.com/kritik8/LeetCoding/tree/master/2864-maximum-odd-binary-number) |
 | [2938-separate-black-and-white-balls](https://github.com/kritik8/LeetCoding/tree/master/2938-separate-black-and-white-balls) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/kritik8/LeetCoding/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kritik8/LeetCoding/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Depth-First Search
 |  |
 | ------- |
