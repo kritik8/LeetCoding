@@ -72,6 +72,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0068-text-justification](https://github.com/kritik8/LeetCoding/tree/master/0068-text-justification) |
 | [0127-word-ladder](https://github.com/kritik8/LeetCoding/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/kritik8/LeetCoding/tree/master/0165-compare-version-numbers) |
+| [0171-excel-sheet-column-number](https://github.com/kritik8/LeetCoding/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/kritik8/LeetCoding/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/kritik8/LeetCoding/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/kritik8/LeetCoding/tree/master/0242-valid-anagram) |
@@ -333,6 +334,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0009-palindrome-number](https://github.com/kritik8/LeetCoding/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kritik8/LeetCoding/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/kritik8/LeetCoding/tree/master/0048-rotate-image) |
+| [0171-excel-sheet-column-number](https://github.com/kritik8/LeetCoding/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/kritik8/LeetCoding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kritik8/LeetCoding/tree/master/0268-missing-number) |
 | [0564-find-the-closest-palindrome](https://github.com/kritik8/LeetCoding/tree/master/0564-find-the-closest-palindrome) |
