@@ -357,6 +357,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [3524-find-x-value-of-array-i](https://github.com/kritik8/LeetCoding/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kritik8/LeetCoding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kritik8/LeetCoding/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/kritik8/LeetCoding/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/kritik8/LeetCoding/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kritik8/LeetCoding/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kritik8/LeetCoding/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -477,6 +478,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2864-maximum-odd-binary-number](https://github.com/kritik8/LeetCoding/tree/master/2864-maximum-odd-binary-number) |
 | [2938-separate-black-and-white-balls](https://github.com/kritik8/LeetCoding/tree/master/2938-separate-black-and-white-balls) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/kritik8/LeetCoding/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/kritik8/LeetCoding/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kritik8/LeetCoding/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Depth-First Search
 |  |
