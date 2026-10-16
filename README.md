@@ -265,6 +265,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2540-minimum-common-value](https://github.com/kritik8/LeetCoding/tree/master/2540-minimum-common-value) |
 | [2706-buy-two-chocolates](https://github.com/kritik8/LeetCoding/tree/master/2706-buy-two-chocolates) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kritik8/LeetCoding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kritik8/LeetCoding/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/kritik8/LeetCoding/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kritik8/LeetCoding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/kritik8/LeetCoding/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -315,6 +316,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kritik8/LeetCoding/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/kritik8/LeetCoding/tree/master/2540-minimum-common-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kritik8/LeetCoding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kritik8/LeetCoding/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2947-count-beautiful-substrings-i](https://github.com/kritik8/LeetCoding/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/kritik8/LeetCoding/tree/master/2949-count-beautiful-substrings-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kritik8/LeetCoding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -634,8 +636,10 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kritik8/LeetCoding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kritik8/LeetCoding/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kritik8/LeetCoding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kritik8/LeetCoding/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
