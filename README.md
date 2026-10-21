@@ -121,6 +121,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kritik8/LeetCoding/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3163-string-compression-iii](https://github.com/kritik8/LeetCoding/tree/master/3163-string-compression-iii) |
 | [3498-reverse-degree-of-a-string](https://github.com/kritik8/LeetCoding/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/kritik8/LeetCoding/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
