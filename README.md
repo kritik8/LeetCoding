@@ -280,6 +280,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kritik8/LeetCoding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kritik8/LeetCoding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritik8/LeetCoding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/kritik8/LeetCoding/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kritik8/LeetCoding/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kritik8/LeetCoding/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kritik8/LeetCoding/tree/master/3875-construct-uniform-parity-array-i) |
@@ -530,6 +531,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0645-set-mismatch](https://github.com/kritik8/LeetCoding/tree/master/0645-set-mismatch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kritik8/LeetCoding/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kritik8/LeetCoding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/kritik8/LeetCoding/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Breadth-First Search
 |  |
 | ------- |
