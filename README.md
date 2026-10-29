@@ -655,6 +655,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0178-rank-scores](https://github.com/kritik8/LeetCoding/tree/master/0178-rank-scores) |
 | [0607-sales-person](https://github.com/kritik8/LeetCoding/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/kritik8/LeetCoding/tree/master/0608-tree-node) |
+| [0627-swap-sex-of-employees](https://github.com/kritik8/LeetCoding/tree/master/0627-swap-sex-of-employees) |
 ## Binary Indexed Tree
 |  |
 | ------- |
