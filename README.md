@@ -172,6 +172,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0389-find-the-difference](https://github.com/kritik8/LeetCoding/tree/master/0389-find-the-difference) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kritik8/LeetCoding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kritik8/LeetCoding/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kritik8/LeetCoding/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/kritik8/LeetCoding/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/kritik8/LeetCoding/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
@@ -217,6 +218,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0349-intersection-of-two-arrays](https://github.com/kritik8/LeetCoding/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kritik8/LeetCoding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/kritik8/LeetCoding/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kritik8/LeetCoding/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0498-diagonal-traverse](https://github.com/kritik8/LeetCoding/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/kritik8/LeetCoding/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/kritik8/LeetCoding/tree/master/0605-can-place-flowers) |
@@ -352,6 +354,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0171-excel-sheet-column-number](https://github.com/kritik8/LeetCoding/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/kritik8/LeetCoding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kritik8/LeetCoding/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kritik8/LeetCoding/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/kritik8/LeetCoding/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/kritik8/LeetCoding/tree/master/0592-fraction-addition-and-subtraction) |
 | [0976-largest-perimeter-triangle](https://github.com/kritik8/LeetCoding/tree/master/0976-largest-perimeter-triangle) |
