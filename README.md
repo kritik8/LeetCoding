@@ -123,6 +123,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kritik8/LeetCoding/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3163-string-compression-iii](https://github.com/kritik8/LeetCoding/tree/master/3163-string-compression-iii) |
 | [3498-reverse-degree-of-a-string](https://github.com/kritik8/LeetCoding/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/kritik8/LeetCoding/tree/master/3838-weighted-word-mapping) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/kritik8/LeetCoding/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -160,6 +161,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2582-pass-the-pillow](https://github.com/kritik8/LeetCoding/tree/master/2582-pass-the-pillow) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kritik8/LeetCoding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/kritik8/LeetCoding/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/kritik8/LeetCoding/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
@@ -291,6 +293,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [3718-smallest-missing-multiple-of-k](https://github.com/kritik8/LeetCoding/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kritik8/LeetCoding/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kritik8/LeetCoding/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3838-weighted-word-mapping](https://github.com/kritik8/LeetCoding/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kritik8/LeetCoding/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kritik8/LeetCoding/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kritik8/LeetCoding/tree/master/3882-minimum-xor-path-in-a-grid) |
