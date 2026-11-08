@@ -245,6 +245,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kritik8/LeetCoding/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/kritik8/LeetCoding/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1254-number-of-closed-islands](https://github.com/kritik8/LeetCoding/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kritik8/LeetCoding/tree/master/1267-count-servers-that-communicate) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kritik8/LeetCoding/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kritik8/LeetCoding/tree/master/1329-sort-the-matrix-diagonally) |
 | [1345-jump-game-iv](https://github.com/kritik8/LeetCoding/tree/master/1345-jump-game-iv) |
@@ -444,6 +445,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0934-shortest-bridge](https://github.com/kritik8/LeetCoding/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/kritik8/LeetCoding/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/kritik8/LeetCoding/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kritik8/LeetCoding/tree/master/1267-count-servers-that-communicate) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kritik8/LeetCoding/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1329-sort-the-matrix-diagonally](https://github.com/kritik8/LeetCoding/tree/master/1329-sort-the-matrix-diagonally) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/kritik8/LeetCoding/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -488,6 +490,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kritik8/LeetCoding/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kritik8/LeetCoding/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1267-count-servers-that-communicate](https://github.com/kritik8/LeetCoding/tree/master/1267-count-servers-that-communicate) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/kritik8/LeetCoding/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/kritik8/LeetCoding/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kritik8/LeetCoding/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -526,6 +529,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1020-number-of-enclaves](https://github.com/kritik8/LeetCoding/tree/master/1020-number-of-enclaves) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/kritik8/LeetCoding/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1254-number-of-closed-islands](https://github.com/kritik8/LeetCoding/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kritik8/LeetCoding/tree/master/1267-count-servers-that-communicate) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/kritik8/LeetCoding/tree/master/2331-evaluate-boolean-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kritik8/LeetCoding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Trie
@@ -567,6 +571,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0934-shortest-bridge](https://github.com/kritik8/LeetCoding/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/kritik8/LeetCoding/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/kritik8/LeetCoding/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kritik8/LeetCoding/tree/master/1267-count-servers-that-communicate) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kritik8/LeetCoding/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1345-jump-game-iv](https://github.com/kritik8/LeetCoding/tree/master/1345-jump-game-iv) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kritik8/LeetCoding/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -600,6 +605,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/kritik8/LeetCoding/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/kritik8/LeetCoding/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/kritik8/LeetCoding/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kritik8/LeetCoding/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kritik8/LeetCoding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
 |  |
