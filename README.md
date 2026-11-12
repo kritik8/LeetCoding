@@ -284,6 +284,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kritik8/LeetCoding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/kritik8/LeetCoding/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kritik8/LeetCoding/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kritik8/LeetCoding/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kritik8/LeetCoding/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kritik8/LeetCoding/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/kritik8/LeetCoding/tree/master/3524-find-x-value-of-array-i) |
