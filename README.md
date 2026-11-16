@@ -108,6 +108,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2109-adding-spaces-to-a-string](https://github.com/kritik8/LeetCoding/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kritik8/LeetCoding/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/kritik8/LeetCoding/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kritik8/LeetCoding/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/kritik8/LeetCoding/tree/master/2409-count-days-spent-together) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/kritik8/LeetCoding/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/kritik8/LeetCoding/tree/master/2785-sort-vowels-in-a-string) |
@@ -158,6 +159,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [1706-where-will-the-ball-fall](https://github.com/kritik8/LeetCoding/tree/master/1706-where-will-the-ball-fall) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kritik8/LeetCoding/tree/master/2073-time-needed-to-buy-tickets) |
 | [2109-adding-spaces-to-a-string](https://github.com/kritik8/LeetCoding/tree/master/2109-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kritik8/LeetCoding/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2582-pass-the-pillow](https://github.com/kritik8/LeetCoding/tree/master/2582-pass-the-pillow) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kritik8/LeetCoding/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/kritik8/LeetCoding/tree/master/3498-reverse-degree-of-a-string) |
