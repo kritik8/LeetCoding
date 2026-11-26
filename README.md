@@ -163,6 +163,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kritik8/LeetCoding/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2582-pass-the-pillow](https://github.com/kritik8/LeetCoding/tree/master/2582-pass-the-pillow) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kritik8/LeetCoding/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/kritik8/LeetCoding/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/kritik8/LeetCoding/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/kritik8/LeetCoding/tree/master/3838-weighted-word-mapping) |
 ## Sorting
@@ -393,6 +394,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2947-count-beautiful-substrings-i](https://github.com/kritik8/LeetCoding/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/kritik8/LeetCoding/tree/master/2949-count-beautiful-substrings-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kritik8/LeetCoding/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3360-stone-removal-game](https://github.com/kritik8/LeetCoding/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/kritik8/LeetCoding/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/kritik8/LeetCoding/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kritik8/LeetCoding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
