@@ -311,6 +311,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kritik8/LeetCoding/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/kritik8/LeetCoding/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/kritik8/LeetCoding/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/kritik8/LeetCoding/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -446,6 +447,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [3524-find-x-value-of-array-i](https://github.com/kritik8/LeetCoding/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/kritik8/LeetCoding/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kritik8/LeetCoding/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/kritik8/LeetCoding/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
@@ -536,6 +538,7 @@ This repository contains my solutions to **LeetCode problems** as I practice and
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/kritik8/LeetCoding/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kritik8/LeetCoding/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kritik8/LeetCoding/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/kritik8/LeetCoding/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Depth-First Search
 |  |
 | ------- |
